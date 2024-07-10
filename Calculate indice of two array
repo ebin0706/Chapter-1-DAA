@@ -7,4 +7,6 @@ def calculate_indices(nums1, nums2):
 nums1 = [2, 3, 2]
 nums2 = [1, 2]
 output = calculate_indices(nums1, nums2)
-print(output)  # Output: [2, 1]
+print(output)  
+
+# Output: [2, 1]
