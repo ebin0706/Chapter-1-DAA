@@ -7,3 +7,6 @@ def find_palindromic_string(words):
 # Test the function
 words = ["abc", "car", "ada", "racecar", "cool"]
 print(find_palindromic_string(words))
+
+#Output = ada
+
